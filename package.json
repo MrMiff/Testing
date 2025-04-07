@@ -1,0 +1,14 @@
+{
+  "name": "trc20-recovery-tool",
+  "version": "1.0.0",
+  "description": "Tool untuk recovery token TRC20 dari wallet compromised.",
+  "main": "recover.js",
+  "scripts": {
+    "start": "node recover.js"
+  },
+  "dependencies": {
+    "tronweb": "^5.3.0"
+  },
+  "author": "MrMiff",
+  "license": "MIT"
+}
